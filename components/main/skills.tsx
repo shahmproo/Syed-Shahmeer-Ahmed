@@ -6,7 +6,7 @@ import {
     Skill_data,
   } from "@/constant";
   import React from "react";
-  import SkillDataProvider from "../sub/skillDataProvidid"; 
+  import SkillDataProvider from "../sub/SkillDataProvidid"; 
 import SkillText from "../sub/SkillText";
   
   
